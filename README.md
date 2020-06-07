@@ -4,8 +4,8 @@ In this project, the COVID19 dataset, published by John Hopkins University, whic
 
  1.Importing COVID19 dataset and preparing it for the analysis by dropping columns and aggregating rows.
 
- 2.Deciding on and calculating a good measure for our analysis.
+ 2.Deciding on and calculating a good measure for the analysis.
  
- 3.Merging two datasets and finding correlations among our data.
+ 3.Merging two datasets and finding correlations among the data.
 
- 4.Visualizing our analysis results using Seaborn.
+ 4.Visualizing data analysis results using Seaborn.
