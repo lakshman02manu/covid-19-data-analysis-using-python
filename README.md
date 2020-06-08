@@ -11,6 +11,9 @@ In this project, the COVID19 dataset, published by John Hopkins University, whic
  4.Visualizing data analysis results using Seaborn.
  
  -numpy
+ 
  -pandas
+ 
  -seaborn
+ 
  -matplot lib
