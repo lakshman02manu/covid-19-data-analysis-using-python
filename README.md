@@ -9,3 +9,8 @@ In this project, the COVID19 dataset, published by John Hopkins University, whic
  3.Merging two datasets and finding correlations among the data.
 
  4.Visualizing data analysis results using Seaborn.
+ 
+ -numpy
+ -pandas
+ -seaborn
+ -matplot lib
